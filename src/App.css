@@ -23,7 +23,9 @@
   justify-content: center;
   align-items: center;
 }
-
+body{
+  background-color: #463e3e;
+}
 .black{
   background-color: black;
 }
