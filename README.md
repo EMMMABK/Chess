@@ -1,6 +1,6 @@
 # Chess Mastermind 🚀👑
 
-![Chess Board]()
+![Chess Board](https://i.ibb.co/M89nbnh/Black-And-Grey-Chess-Tournament-Instagram-Post.png")
 
 Welcome to the Chess Mastermind project! 🌟
 
@@ -91,9 +91,6 @@ Contributions, ideas, or bug reports are super welcome! 🙌 If something's not 
 This project was created by **EMMMABK** (Adil Bikiev), a passionate developer dedicated to delivering innovative software solutions. Their commitment to crafting quality applications shines through Chess Mastermind, offering users an exceptional chess experience!
 
 ---
-
-Теперь README.md содержит информацию о создателе проекта - **EMMMABK** (Adil Bikiev), отражая его вклад в создание и развитие этого увлекательного приложения.
-
 
 # Getting Started with Create React App
 
