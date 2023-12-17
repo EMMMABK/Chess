@@ -45,6 +45,13 @@ body{
   pointer-events: none;
 }
 
+.available{
+  height: 12px;
+  width: 12px;
+  border-radius: 50%;
+  background: rgb(27, 196, 27);
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
