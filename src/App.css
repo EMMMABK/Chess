@@ -37,6 +37,9 @@ body{
   height: 48px;
   position: relative;
 }
+.selected{
+  background-color: brown;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
