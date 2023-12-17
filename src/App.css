@@ -8,6 +8,7 @@
   height: 100vh;
   display: flex;
   justify-content: center;
+  column-gap: 50px;
   align-items: center;
 }
 .board{
@@ -39,6 +40,12 @@ body{
 }
 .selected{
   background-color: brown;
+}
+.lost{
+  height: calc(50vh - 60px);
+  padding: 30px;
+  margin-left: 50px;
+  background-color: lightgray;
 }
 .App-logo {
   height: 40vmin;
